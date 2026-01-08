@@ -1,0 +1,32 @@
+2026-01-08 17:25:21,011 - src.extract.weather_extractor - INFO - WeatherExtractor initialized
+2026-01-08 17:25:21,011 - src.extract.weather_extractor - INFO - Starting batch extraction for 15 cities
+2026-01-08 17:25:21,012 - src.extract.weather_extractor - INFO - Processing 1/15: Jakarta
+2026-01-08 17:25:21,012 - src.extract.weather_extractor - INFO - Fetching weather data for Jakarta
+2026-01-08 17:25:22,134 - src.extract.weather_extractor - INFO - Processing 2/15: Surabaya
+2026-01-08 17:25:22,134 - src.extract.weather_extractor - INFO - Fetching weather data for Surabaya
+2026-01-08 17:25:23,254 - src.extract.weather_extractor - INFO - Processing 3/15: Bandung
+2026-01-08 17:25:23,254 - src.extract.weather_extractor - INFO - Fetching weather data for Bandung
+2026-01-08 17:25:24,352 - src.extract.weather_extractor - INFO - Processing 4/15: Medan
+2026-01-08 17:25:24,352 - src.extract.weather_extractor - INFO - Fetching weather data for Medan
+2026-01-08 17:25:25,454 - src.extract.weather_extractor - INFO - Processing 5/15: Semarang
+2026-01-08 17:25:25,455 - src.extract.weather_extractor - INFO - Fetching weather data for Semarang
+2026-01-08 17:25:26,549 - src.extract.weather_extractor - INFO - Processing 6/15: Makassar
+2026-01-08 17:25:26,549 - src.extract.weather_extractor - INFO - Fetching weather data for Makassar
+2026-01-08 17:25:27,640 - src.extract.weather_extractor - INFO - Processing 7/15: Palembang
+2026-01-08 17:25:27,640 - src.extract.weather_extractor - INFO - Fetching weather data for Palembang
+2026-01-08 17:25:28,736 - src.extract.weather_extractor - INFO - Processing 8/15: Denpasar
+2026-01-08 17:25:28,736 - src.extract.weather_extractor - INFO - Fetching weather data for Denpasar
+2026-01-08 17:25:29,840 - src.extract.weather_extractor - INFO - Processing 9/15: Singapore
+2026-01-08 17:25:29,840 - src.extract.weather_extractor - INFO - Fetching weather data for Singapore
+2026-01-08 17:25:30,950 - src.extract.weather_extractor - INFO - Processing 10/15: Kuala Lumpur
+2026-01-08 17:25:30,950 - src.extract.weather_extractor - INFO - Fetching weather data for Kuala Lumpur
+2026-01-08 17:25:32,068 - src.extract.weather_extractor - INFO - Processing 11/15: Bangkok
+2026-01-08 17:25:32,068 - src.extract.weather_extractor - INFO - Fetching weather data for Bangkok
+2026-01-08 17:25:33,165 - src.extract.weather_extractor - INFO - Processing 12/15: Manila
+2026-01-08 17:25:33,166 - src.extract.weather_extractor - INFO - Fetching weather data for Manila
+2026-01-08 17:25:34,274 - src.extract.weather_extractor - INFO - Processing 13/15: Ho Chi Minh City
+2026-01-08 17:25:34,274 - src.extract.weather_extractor - INFO - Fetching weather data for Ho Chi Minh City
+2026-01-08 17:25:35,382 - src.extract.weather_extractor - INFO - Processing 14/15: Hanoi
+2026-01-08 17:25:35,382 - src.extract.weather_extractor - INFO - Fetching weather data for Hanoi
+2026-01-08 17:25:36,493 - src.extract.weather_extractor - INFO - Processing 15/15: Yangon
+2026-01-08 17:25:36,493 - src.extract.weather_extractor - INFO - Fetching weather data for Yangon
