@@ -73,7 +73,7 @@ def setup_database():
             ))
         
         # Create user
-        print(f"\n👤 Creating user '{DB_USER}'...")
+        print(f"\nCreating user '{DB_USER}'...")
         cursor.execute(sql.SQL(
             "CREATE USER {} WITH PASSWORD %s"
         ).format(sql.Identifier(DB_USER)), [DB_PASSWORD])

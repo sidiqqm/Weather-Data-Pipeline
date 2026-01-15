@@ -281,7 +281,7 @@ class WeatherTransformer:
         df_enriched['day_of_week'] = df_enriched['dt_datetime'].dt.day_name()
         df_enriched['month'] = df_enriched['dt_datetime'].dt.month_name()
         
-        logger.info(f"✅ Added {len([c for c in df_enriched.columns if c not in df.columns])} new derived columns")
+        logger.info(f"Added {len([c for c in df_enriched.columns if c not in df.columns])} new derived columns")
         
         return df_enriched
     

@@ -13,6 +13,6 @@ if __name__ == "__main__":
     if response.lower() == 'y':
         dashboard_path = os.path.abspath('reports/dashboard.html')
         webbrowser.open(f'file://{dashboard_path}')
-        print("✅ Dashboard opened in browser!")
+        print("Dashboard opened in browser!")
     else:
         print("💡 You can open 'reports/dashboard.html' manually later.")

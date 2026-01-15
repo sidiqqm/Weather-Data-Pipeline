@@ -10,7 +10,7 @@ with open(latest_file, 'r') as f:
     data = json.load(f)
 
 print("="*70)
-print("🔍 RAW DATA STRUCTURE ANALYSIS")
+print(" RAW DATA STRUCTURE ANALYSIS")
 print("="*70)
 
 # Sample record

@@ -1,0 +1,711 @@
+[
+  {
+    "coord": {
+      "lon": 106.8451,
+      "lat": -6.2146
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 27.19,
+      "feels_like": 29.96,
+      "temp_min": 25.5,
+      "temp_max": 27.27,
+      "pressure": 1013,
+      "humidity": 78,
+      "sea_level": 1013,
+      "grnd_level": 1009
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 240
+    },
+    "clouds": {
+      "all": 20
+    },
+    "dt": 1768055900,
+    "sys": {
+      "type": 2,
+      "id": 2103438,
+      "country": "ID",
+      "sunrise": 1767998762,
+      "sunset": 1768043606
+    },
+    "timezone": 25200,
+    "id": 1642911,
+    "name": "Jakarta",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:38.161146",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 112.7508,
+      "lat": -7.2492
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.01,
+      "feels_like": 25.99,
+      "temp_min": 24.97,
+      "temp_max": 25.01,
+      "pressure": 1011,
+      "humidity": 93,
+      "sea_level": 1011,
+      "grnd_level": 1010
+    },
+    "visibility": 8000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 280
+    },
+    "clouds": {
+      "all": 20
+    },
+    "dt": 1768055668,
+    "sys": {
+      "type": 2,
+      "id": 2081990,
+      "country": "ID",
+      "sunrise": 1767997242,
+      "sunset": 1768042291
+    },
+    "timezone": 25200,
+    "id": 1625822,
+    "name": "Surabaya",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:39.502679",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 107.6186,
+      "lat": -6.9039
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.66,
+      "feels_like": 25.45,
+      "temp_min": 24.66,
+      "temp_max": 24.66,
+      "pressure": 1014,
+      "humidity": 87,
+      "sea_level": 1014,
+      "grnd_level": 914
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.46,
+      "deg": 254,
+      "gust": 1.88
+    },
+    "clouds": {
+      "all": 68
+    },
+    "dt": 1768055761,
+    "sys": {
+      "country": "ID",
+      "sunrise": 1767998508,
+      "sunset": 1768043488
+    },
+    "timezone": 25200,
+    "id": 1650357,
+    "name": "Bandung",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:40.716894",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 98.6667,
+      "lat": 3.5833
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.02,
+      "feels_like": 26.03,
+      "temp_min": 25.02,
+      "temp_max": 25.02,
+      "pressure": 1014,
+      "humidity": 94,
+      "sea_level": 1014,
+      "grnd_level": 1009
+    },
+    "visibility": 8000,
+    "wind": {
+      "speed": 2.06,
+      "deg": 300
+    },
+    "clouds": {
+      "all": 20
+    },
+    "dt": 1768055866,
+    "sys": {
+      "type": 1,
+      "id": 9412,
+      "country": "ID",
+      "sunrise": 1768001680,
+      "sunset": 1768044614
+    },
+    "timezone": 25200,
+    "id": 1214520,
+    "name": "Medan",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:41.948863",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 110.4203,
+      "lat": -6.9932
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.96,
+      "feels_like": 25.81,
+      "temp_min": 24.96,
+      "temp_max": 24.96,
+      "pressure": 1011,
+      "humidity": 88,
+      "sea_level": 1011,
+      "grnd_level": 1002
+    },
+    "visibility": 6000,
+    "wind": {
+      "speed": 1.54,
+      "deg": 270
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1768055738,
+    "sys": {
+      "type": 1,
+      "id": 9362,
+      "country": "ID",
+      "sunrise": 1767997826,
+      "sunset": 1768042825
+    },
+    "timezone": 25200,
+    "id": 1627896,
+    "name": "Semarang",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:43.177952",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 119.4221,
+      "lat": -5.14
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.03,
+      "feels_like": 25.1,
+      "temp_min": 24.03,
+      "temp_max": 24.03,
+      "pressure": 1011,
+      "humidity": 100,
+      "sea_level": 1011,
+      "grnd_level": 1014
+    },
+    "visibility": 8000,
+    "wind": {
+      "speed": 2.06,
+      "deg": 100
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1768055793,
+    "sys": {
+      "type": 1,
+      "id": 9325,
+      "country": "ID",
+      "sunrise": 1767995848,
+      "sunset": 1768040481
+    },
+    "timezone": 28800,
+    "id": 1622786,
+    "name": "Makassar",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:44.406643",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 104.7458,
+      "lat": -2.9167
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.05,
+      "feels_like": 26.05,
+      "temp_min": 26.05,
+      "temp_max": 26.05,
+      "pressure": 1013,
+      "humidity": 94,
+      "sea_level": 1013,
+      "grnd_level": 1012
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.03,
+      "deg": 0
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1768055401,
+    "sys": {
+      "type": 1,
+      "id": 9424,
+      "country": "ID",
+      "sunrise": 1767999589,
+      "sunset": 1768043786
+    },
+    "timezone": 25200,
+    "id": 1633070,
+    "name": "Palembang",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:45.633705",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 115.2167,
+      "lat": -8.65
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 28.81,
+      "feels_like": 33.04,
+      "temp_min": 28.81,
+      "temp_max": 28.81,
+      "pressure": 1010,
+      "humidity": 74,
+      "sea_level": 1010,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.2,
+      "deg": 290
+    },
+    "rain": {
+      "1h": 0.33
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1768055753,
+    "sys": {
+      "type": 1,
+      "id": 9333,
+      "country": "ID",
+      "sunrise": 1767996510,
+      "sunset": 1768041838
+    },
+    "timezone": 28800,
+    "id": 1645528,
+    "name": "Denpasar",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:47.069629",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 103.8501,
+      "lat": 1.2897
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.89,
+      "feels_like": 26.55,
+      "temp_min": 24.92,
+      "temp_max": 26.07,
+      "pressure": 1014,
+      "humidity": 77,
+      "sea_level": 1014,
+      "grnd_level": 1013
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.6,
+      "deg": 20
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1768055529,
+    "sys": {
+      "type": 1,
+      "id": 9470,
+      "country": "SG",
+      "sunrise": 1768000213,
+      "sunset": 1768043593
+    },
+    "timezone": 28800,
+    "id": 1880252,
+    "name": "Singapore",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:48.301040",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 101.6865,
+      "lat": 3.1431
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 27.75,
+      "feels_like": 30.68,
+      "temp_min": 27.75,
+      "temp_max": 27.75,
+      "pressure": 1013,
+      "humidity": 74,
+      "sea_level": 1013,
+      "grnd_level": 1000
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.54,
+      "deg": 200
+    },
+    "clouds": {
+      "all": 20
+    },
+    "dt": 1768055944,
+    "sys": {
+      "type": 1,
+      "id": 9446,
+      "country": "MY",
+      "sunrise": 1768000912,
+      "sunset": 1768043932
+    },
+    "timezone": 28800,
+    "id": 1733046,
+    "name": "Kuala Lumpur",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:49.629681",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 100.5167,
+      "lat": 13.75
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 23.07,
+      "feels_like": 22.87,
+      "temp_min": 22.73,
+      "temp_max": 23.94,
+      "pressure": 1016,
+      "humidity": 55,
+      "sea_level": 1016,
+      "grnd_level": 1015
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.85,
+      "deg": 119,
+      "gust": 1.69
+    },
+    "clouds": {
+      "all": 68
+    },
+    "dt": 1768055730,
+    "sys": {
+      "type": 2,
+      "id": 2105433,
+      "country": "TH",
+      "sunrise": 1768002243,
+      "sunset": 1768043163
+    },
+    "timezone": 25200,
+    "id": 1609350,
+    "name": "Bangkok",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:50.876648",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 120.9822,
+      "lat": 14.6042
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.33,
+      "feels_like": 26.29,
+      "temp_min": 24.47,
+      "temp_max": 26,
+      "pressure": 1014,
+      "humidity": 91,
+      "sea_level": 1014,
+      "grnd_level": 1017
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.03,
+      "deg": 0
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1768055549,
+    "sys": {
+      "type": 2,
+      "id": 2008256,
+      "country": "PH",
+      "sunrise": 1767997418,
+      "sunset": 1768038162
+    },
+    "timezone": 28800,
+    "id": 1701668,
+    "name": "Manila",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:52.197161",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 106.6667,
+      "lat": 10.75
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.48,
+      "feels_like": 24.84,
+      "temp_min": 23.01,
+      "temp_max": 24.48,
+      "pressure": 1014,
+      "humidity": 71,
+      "sea_level": 1014,
+      "grnd_level": 1014
+    },
+    "visibility": 8000,
+    "wind": {
+      "speed": 2.57,
+      "deg": 280
+    },
+    "clouds": {
+      "all": 49
+    },
+    "dt": 1768056014,
+    "sys": {
+      "type": 2,
+      "id": 2093009,
+      "country": "VN",
+      "sunrise": 1768000464,
+      "sunset": 1768041990
+    },
+    "timezone": 25200,
+    "id": 1566083,
+    "name": "Ho Chi Minh City",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:53.423494",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 105.8412,
+      "lat": 21.0245
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16,
+      "feels_like": 15.2,
+      "temp_min": 16,
+      "temp_max": 16,
+      "pressure": 1024,
+      "humidity": 59,
+      "sea_level": 1024,
+      "grnd_level": 1023
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.27,
+      "deg": 165,
+      "gust": 3.55
+    },
+    "clouds": {
+      "all": 10
+    },
+    "dt": 1768055531,
+    "sys": {
+      "type": 1,
+      "id": 9308,
+      "country": "VN",
+      "sunrise": 1768001737,
+      "sunset": 1768041112
+    },
+    "timezone": 25200,
+    "id": 1581130,
+    "name": "Hanoi",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:54.855944",
+    "extraction_source": "openweathermap_api"
+  },
+  {
+    "coord": {
+      "lon": 96.1561,
+      "lat": 16.8053
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.98,
+      "feels_like": 25.98,
+      "temp_min": 25.98,
+      "temp_max": 25.98,
+      "pressure": 1015,
+      "humidity": 78,
+      "sea_level": 1015,
+      "grnd_level": 1014
+    },
+    "visibility": 6000,
+    "wind": {
+      "speed": 1.03,
+      "deg": 60
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1768055501,
+    "sys": {
+      "type": 1,
+      "id": 9322,
+      "country": "MM",
+      "sunrise": 1768003607,
+      "sunset": 1768043893
+    },
+    "timezone": 23400,
+    "id": 1298824,
+    "name": "Yangon",
+    "cod": 200,
+    "extracted_at": "2026-01-10T21:41:56.068188",
+    "extraction_source": "openweathermap_api"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "run_id": "run_20260110_212353",
+  "start_time": "2026-01-10T21:23:53.399064",
+  "status": "failed",
+  "stages": {
+    "extraction": {
+      "status": "success",
+      "records": 15,
+      "filepath": "data\\raw\\weather_raw_run_20260110_212353.json",
+      "duration_seconds": 17.56764030456543
+    },
+    "transformation": {
+      "status": "success",
+      "records_input": 15,
+      "records_output": 15,
+      "columns": 48,
+      "filepath": "data/processed/weather_clean_20260110_212411.csv",
+      "duration_seconds": 0.07214236259460449
+    },
+    "loading": {
+      "status": "success",
+      "records_loaded": 15,
+      "duration_seconds": 0.378917932510376
+    },
+    "analytics": {
+      "status": "success",
+      "records_analyzed": 30,
+      "dashboard_path": "reports/dashboard.html",
+      "duration_seconds": 3.785963773727417,
+      "kpis": {
+        "total_cities": 15,
+        "total_countries": 7,
+        "avg_temperature": 25.715333333333337,
+        "max_temperature": 29.98,
+        "min_temperature": 16.0,
+        "avg_humidity": 76.23333333333333,
+        "avg_wind_speed": 2.9676666666666662,
+        "cities_with_rain": 

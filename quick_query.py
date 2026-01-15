@@ -6,7 +6,7 @@ engine = create_engine(
 )
 
 print("=" * 70)
-print("🔍 QUICK DATA ANALYSIS")
+print(" QUICK DATA ANALYSIS")
 print("=" * 70)
 
 # Custom query
@@ -25,12 +25,12 @@ ORDER BY weather_severity DESC
 LIMIT 10;
 """
 
-print("\n📊 Cities with Temperature > 25°C (sorted by severity):")
+print("\nCities with Temperature > 25°C (sorted by severity):")
 print("-" * 70)
 
 df = pd.read_sql(custom_query, engine)
 print(df.to_string(index=False))
 
 print("\n" + "=" * 70)
-print("💡 Modify the query in quick_query.py to explore different insights!")
+print("Modify the query in quick_query.py to explore different insights!")
 print("=" * 70)

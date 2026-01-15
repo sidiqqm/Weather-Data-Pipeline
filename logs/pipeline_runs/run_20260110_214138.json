@@ -1,0 +1,48 @@
+{
+  "run_id": "run_20260110_214138",
+  "start_time": "2026-01-10T21:41:38.060878",
+  "status": "success",
+  "stages": {
+    "extraction": {
+      "status": "success",
+      "records": 15,
+      "filepath": "data\\raw\\weather_raw_run_20260110_214138.json",
+      "duration_seconds": 18.007310390472412
+    },
+    "transformation": {
+      "status": "success",
+      "records_input": 15,
+      "records_output": 15,
+      "columns": 48,
+      "filepath": "data/processed/weather_clean_20260110_214156.csv",
+      "duration_seconds": 0.03585243225097656
+    },
+    "loading": {
+      "status": "success",
+      "records_loaded": 15,
+      "duration_seconds": 0.07120847702026367
+    },
+    "analytics": {
+      "status": "success",
+      "records_analyzed": 75,
+      "dashboard_path": "reports/dashboard.html",
+      "duration_seconds": 0.9657676219940186,
+      "kpis": {
+        "total_cities": 15,
+        "total_countries": 7,
+        "avg_temperature": 25.263866666666665,
+        "max_temperature": 29.98,
+        "min_temperature": 16.0,
+        "avg_humidity": 78.93333333333334,
+        "avg_wind_speed": 2.6814666666666667,
+        "cities_with_rain": 5,
+        "hottest_city": "Yangon",
+        "coldest_city": "Hanoi",
+        "most_humid_city": "Makassar",
+        "windiest_city": "Singapore"
+      }
+    }
+  },
+  "end_time": "2026-01-10T21:41:57.164780",
+  "duration_seconds": 19.103902
+}

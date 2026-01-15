@@ -137,7 +137,7 @@ class WeatherLoader:
             return len(df)
         
         except Exception as e:
-            logger.error(f"❌ Error loading facts: {e}")
+            logger.error(f"Error loading facts: {e}")
             return 0
     
     def log_load_history(self, records_count, source_file, status, error_msg=None, duration=0):

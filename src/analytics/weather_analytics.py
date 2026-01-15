@@ -66,7 +66,7 @@ class WeatherAnalytics:
         """
         
         df = pd.read_sql(query, self.engine)
-        logger.info(f"✅ Loaded {len(df)} records")
+        logger.info(f" Loaded {len(df)} records")
         
         return df
     
